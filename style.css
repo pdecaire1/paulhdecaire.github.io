@@ -575,3 +575,34 @@ img { max-width: 100%; display: block; }
     .paper-abstract summary { display: none; }
     a { color: inherit; }
 }
+
+/* Upcoming Conferences */
+.conferences-body {
+    max-width: 38rem;
+}
+
+.conference-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem;
+}
+
+.conference-list li {
+    padding: 0.45rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+}
+
+.conf-note {
+    color: #888;
+    font-size: 0.85em;
+    margin-left: 0.25rem;
+}
+
+.conf-legend {
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 0.5rem;
+    font-family: 'Source Sans 3', sans-serif;
+}
