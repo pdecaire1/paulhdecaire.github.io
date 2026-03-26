@@ -640,7 +640,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* About tagline — the italic hook sentence */
-.about-body .about-tagline {
+.about-tagline {
     font-family: var(--font-display);
     font-size: 2rem;
     font-weight: 600;
